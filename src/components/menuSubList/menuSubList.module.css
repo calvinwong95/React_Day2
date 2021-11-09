@@ -1,0 +1,11 @@
+.menuSub_text {
+    color: white;
+}
+
+.menuSub_text_holder {
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 10px 120px;
+}

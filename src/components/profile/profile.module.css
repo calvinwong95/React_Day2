@@ -1,0 +1,19 @@
+.movie_poster {
+    width: 200px;
+    height: 250px;
+    border-radius: 10px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+
+
+}
+
+.profile_holder {
+    display:flex;
+    flex-direction: column;
+
+    width: 150px;
+    margin: 20px;
+    
+}

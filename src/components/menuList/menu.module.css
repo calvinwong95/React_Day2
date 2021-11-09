@@ -1,0 +1,16 @@
+.menu_icon {
+    
+    margin-right: 50px;
+}
+
+p {
+    color: white;
+}
+
+.menu_text_holder {
+    width: 200px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 30px 50px;
+}

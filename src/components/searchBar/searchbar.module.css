@@ -1,0 +1,16 @@
+.searchBar_icon {
+    
+    margin-right: 50px;
+}
+
+p {
+    color: white;
+}
+
+.searchBar_holder {
+    width: 400px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin: 30px 50px;
+}
